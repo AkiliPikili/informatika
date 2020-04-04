@@ -1,0 +1,50 @@
+body {
+		background-color:#E0E0F8;
+		color:aqua;
+		background-image:url("http://1.bp.blogspot.com/-zHVTCyY0lxI/UYFrFCfbgzI/AAAAAAAAKJg/Kj857osQyIE/s1600/Grey-website-background.jpg");
+	}
+
+	#p1 {
+		font-family: Arial;
+		font-size:4;
+		color:red;
+		font-style:bold;
+		text-align:center; 
+	}
+
+	#p2 {
+		font-family: Arial;
+		font-size:4;
+		color:red; 
+		font-style:normal;
+		text-align:right;
+	}	
+	
+	div.special1 {
+		text-align:left;
+		font-family:courier;
+		font-size:3;
+		color:green; 
+	}
+
+	div.special2 {
+		font-family:courier;
+		font-size:3;
+		color:green;
+		text-align:right;
+		font-style:italic;
+	}
+
+	a:visited, a:link {
+		padding:7px 15px;
+		background-color:MediumSeaGreen;
+		color:black;
+		text-decoration:none;
+		text-align: center;
+		display: inline-block; 
+		font-family:Cambria;
+	}
+	a:hover, a:active {
+		background-color:DarkGreen;
+		padding: 7px 15px; 
+	}
