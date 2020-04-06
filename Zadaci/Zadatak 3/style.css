@@ -1,0 +1,37 @@
+body {
+	font-family: Georgia, serif;
+	background-color: LemonChiffon;
+}
+a:link, a:visited, a:hover, a:active {
+	text-decoration: none;
+	color:FireBrick;
+}
+p {
+	color:FireBrick;
+	padding-left: 15px;
+}
+h1 {
+	color:DarkSlateBlue;
+	text-align: center;
+}
+h3 {
+	color:DarkGreen;
+	text-align: left;
+	padding-left: 15px
+}
+.zaglavlje {
+	text-transform: uppercase;
+	font-size: 25px;
+}
+
+.hf {
+	background-color: GoldenRod;
+}
+.main {
+	background-image:url(bg1.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	height:570px; 
+	background-size: 100% 570px;
+	text-align: left;
+}
